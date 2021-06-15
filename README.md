@@ -9,7 +9,7 @@
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subashree188&show_icons=true&locale=en&layout=compact" alt="subashree188" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subashree188&show_icons=true&locale=en" alt="subashree188" /></p>
-<b>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=subashree188&show_icons=true&locale=en" alt="subashree188" /></p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subashree188&" alt="subashree188" /></p>
 
