@@ -10,8 +10,4 @@
 </p>
 <br><br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=subashree188&show_icons=true&locale=en&layout=compact" alt="subashree188" /></p>
-<br>
 <p><img src="https://github-readme-stats.vercel.app/api?username=subashree188&show_icons=true&locale=en" alt="subashree188" /></p>
-<br>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=subashree188&" alt="subashree188" /></p>
-
