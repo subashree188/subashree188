@@ -1,7 +1,5 @@
 <h1 align="center">Hi! This is Suba Shree👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subashree188&label=Profile%20views&color=0e75b6&style=flat" alt="subashree188" /> </p>
-
 <b>Profile Views: </b>
 <p align="left"> <img src="https://profile-counter.glitch.me/subashree188/count.svg" /></p> 
 
