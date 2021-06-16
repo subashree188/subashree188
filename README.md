@@ -1,6 +1,6 @@
 <h1 align="center">Hi! This is Suba Shree👋</h1>
 
-<b>Profile Views: </b>
+<h3>Profile Views: </h3>
 <p align="left"> <img src="https://profile-counter.glitch.me/subashree188/count.svg" /></p> 
 
 <h3 align="left">Connect with me:</h3>
