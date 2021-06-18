@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://profile-counter.glitch.me/subashree188/count.svg" /></p> 
 
 <h3 align="left">Connect with me 🤝</h3>
-<p align="center">
+<p align="left">
  <a href="https://www.linkedin.com/in/subashreevs" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
