@@ -1,5 +1,5 @@
 <h1 align="center">Hi, This is Suba Shree 🙋🏽</h1>
-<b>I'm currently a Junior at SSN College of Engineering majoring in Computer Science, CGPA 8.5, expected to graduate in May 2022. Working on projects that got my interest and eager to join an innovative organisation to learn new things.<b>
+<b>I'm currently a Junior at SSN College of Engineering majoring in Computer Science, CGPA 8.5, expected to graduate in May 2022. Working on projects that got my interest and eager to join an innovative organisation to learn new things & build my skills.<b>
 
 <h3>Profile Visits 👀</h3>
 <p align="left"> <img src="https://profile-counter.glitch.me/subashree188/count.svg" /></p> 
