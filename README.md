@@ -25,7 +25,7 @@
 </p>
 
 <br><br>
-<p>![skills](HackerRankSkills.png)</p>
+![skills](HackerRankSkills.png)
 <br><br>
 
 <h2>GitHub Stats 📈</h2>
