@@ -25,7 +25,10 @@
 </p>
 
 <br><br>
+<h2><a href="https://www.hackerrank.com/subashree18171?hr_r=1">HackerRank Verified Skills and Badges</a></h2>
 ![skills](HackerRankSkills.png)
+![skills](HackerRankBadges.png)
+ 
 <br><br>
 
 <h2>GitHub Stats 📈</h2>
