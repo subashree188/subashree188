@@ -22,8 +22,8 @@
 <br><br>
 <h3><a href="https://www.hackerrank.com/subashree18171?hr_r=1">HackerRank Verified Skills and Badges</a></h3>
  
-![skills](HackerRankSkills.png)
 ![badges](HackerRankBadges.png)
+![skills](HackerRankSkills.png)
  
 <br><br>
 
