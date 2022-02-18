@@ -28,5 +28,5 @@
 <br><br>
 
 <h2>GitHub Stats 📈</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=subashree188&show_icons=true&locale=en" alt="subashree188" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subashree188&show_icons=true&locale=en&layout=compact" alt="subashree188" /> </p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=subashreevs&show_icons=true&locale=en" alt="subashreevs" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subashreevs&show_icons=true&locale=en&layout=compact" alt="subashreevs" /> </p>
